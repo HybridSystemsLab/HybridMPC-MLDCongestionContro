@@ -1,4 +1,4 @@
-# HybridMPCMLDCongestionControl
+# HybridMPC-MLDCongestionControl
 
 To run simulations:
 
