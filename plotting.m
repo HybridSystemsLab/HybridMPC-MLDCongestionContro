@@ -11,7 +11,6 @@ end
 end
 t=0:(T_p*(T_f));
   
-figure(1)
 plotHarcColor(x_1,j',x_2,t')
 grid on
 xlabel('$q$','interpreter','latex')
